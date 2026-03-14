@@ -279,9 +279,7 @@ Responsibilities:
 - Implement machine learning-based demand forecasting
 - Deploy dashboards using Power BI or Streamlit
 - Implement CI/CD for data pipelines
-
 ---
-
 ## Conclusion
 
 This project demonstrates how a modern data engineering pipeline can transform raw e-commerce data into reliable analytics datasets and business insights using the Lakehouse architecture.
